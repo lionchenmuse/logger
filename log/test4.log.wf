@@ -1,0 +1,2 @@
+2021-11-13 14:46:38.054 WARN (logger_test.go:logger.TestLogger:52) test warn log
+2021-11-13 14:46:38.054 FATAL (logger_test.go:logger.TestLogger:53) test fatal log
