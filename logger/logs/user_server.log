@@ -1,0 +1,9 @@
+2021-11-13 15:22:54.906 DEBUG (main.go:main.initLogger:25) init logger success
+2021-11-13 15:22:54.906 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:22:54.906
+2021-11-13 15:22:55.906 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:22:55.906
+2021-11-13 15:22:56.906 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:22:56.906
+2021-11-13 15:22:57.907 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:22:57.907
+2021-11-13 15:22:58.907 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:22:58.907
+2021-11-13 15:22:59.907 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:22:59.907
+2021-11-13 15:23:00.908 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:23:00.908
+2021-11-13 15:23:01.908 DEBUG (main.go:main.run:31) user server is running, 2021-11-13 15:23:01.908
