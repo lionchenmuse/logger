@@ -51,14 +51,12 @@ func NewFileLogger(config map[string]string) (log LogInterface, err error) {
 		if splitType == "size" {
 			logSplitSizeConfig, ok := config["log_split_size"]
 			if !ok {
-				// 104857600：100MB
-				// logSplitSizeConfig = "104857600"
-				// 8192: 8KB
-				logSplitSizeConfig = "8192"
+				// 10485760：10MB
+				logSplitSizeConfig = "10485760"
 			}
 			logSplitSize, err = strconv.ParseInt(logSplitSizeConfig, 10, 64)
 			if err != nil {
-				logSplitSize = 104857600
+				logSplitSize = 10485760
 			}
 			logSplitType = Split_By_Size
 		} else {
